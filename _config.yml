@@ -9,32 +9,24 @@ name: Rakhmatov Shakhzodbek
 description: Machine Learning engineer and crypto enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/photo_2024-02-27_03-59-52.jpg
 
 #
 # Flags below are optional
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+
+  github: shakhzodbek-lab/
+  
+  rss: # working...
+  twitter: @uthman_777
+  
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: shakhzod
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
@@ -47,7 +39,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "http://shakhzodbek_lab.github.io/shakhzodbekblog.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
